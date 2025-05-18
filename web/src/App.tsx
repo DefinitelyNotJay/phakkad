@@ -7,7 +7,7 @@ function App() {
 	return (
 		<div className='font-bai'>
 			<TopNavigationBar />
-			<main className="p-8">
+			<main>
 				<Router />
 			</main>
 		</div>
